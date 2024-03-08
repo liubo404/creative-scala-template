@@ -1,3 +1,4 @@
+2024.03.08
 # Creative Scala Template
 
 This is a template project designed for people taking [Creative Scala][creative-scala].
